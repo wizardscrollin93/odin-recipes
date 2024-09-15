@@ -1,0 +1,29 @@
+* {
+    background-color: bisque;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: black;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+div {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.odd {
+    text-align: center;
+}
+
+li {
+    font-size: 20px;
+}
